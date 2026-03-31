@@ -1,3 +1,6 @@
+.build
+.gitnxtver_cache
+Log-Fmt-XS-*
 MYMETA.*
 Makefile
 Makefile.old
