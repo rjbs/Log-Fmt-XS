@@ -1,6 +1,6 @@
 use v5.20;
 use warnings;
-package Log::Fmt::XS 0.001;
+package Log::Fmt::XS;
 
 use parent 'Log::Fmt';
 
