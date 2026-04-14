@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        * skip the memory leak test except on Linux; some systems have /proc,
+          but not the format we expect
 
 0.001     2026-04-01 10:38:27-04:00 America/New_York
         * first release
